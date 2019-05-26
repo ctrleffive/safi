@@ -1479,3 +1479,9 @@ main {
     margin-bottom: 0;
   }
 }
+.logo {
+  width: 150px;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}

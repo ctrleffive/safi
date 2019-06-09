@@ -32,3 +32,8 @@ Hygiene Subscription Pack - Safi’s Hygiene Subscription Pack focuses on ensuri
 Cleanliness Subscription Pack - When your business environment is clean, it is a special feeling to be there and pursue your goals. Safi’s Cleanliness Pack has got you covered here - Table Cleaner, Glass Cleaner, Floor Cleaner, Toilet lotions and black plastic bags. Subscribe now.
 
 Freshness Subscription Pack - Your customers will not want to visit you if your business place smells foul. Subscribe to our Freshness Pack which is the go-to product for that fresh smell. Automated and Manual Air freshners (with refills for automated packs), Scented cakes and Premium Scented Tissues. Subscribe now.
+
+Contact Details:
+Instagram - instagram.com/buy.safi
+Facebook - facebook.com/saficonsumertech
+Twitter - @buysafi

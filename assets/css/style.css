@@ -1660,3 +1660,8 @@ main {
 .price-bg .count {
   min-height: 155px;
 }
+.hidden {
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+}
